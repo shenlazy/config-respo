@@ -9,5 +9,5 @@ spring:
 env:
   test3
 people:
-  name:mike
-  sex:M
+  name: mike
+  sex: M
