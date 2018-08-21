@@ -7,7 +7,7 @@ spring:
         password: root
         url: jdbc:mysql://127.0.0.1:3306/springcloud-sell
 env:
-  test9
+  test12
 people:
   name: mike
   sex: M
